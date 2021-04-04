@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center"> Hello There 👋 </h1>
-
 * 我是　[Jianboy](http://blog.yoqi.me) :blush:
 * 数学专业，。🤔
 * 喜欢科研，喜欢音乐🎶，看电影.📖
